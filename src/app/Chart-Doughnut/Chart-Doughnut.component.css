@@ -1,0 +1,16 @@
+#myChart1{
+  max-height: 60vh !important;
+  max-width: 60vw;
+}
+
+#chartContainer1{
+  margin-top: 6vh;
+  margin-bottom: 10vh;
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
+h1{
+  margin-top: 5vh;
+  text-align: center;
+}

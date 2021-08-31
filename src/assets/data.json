@@ -1,0 +1,23 @@
+[
+  {
+    "id" : 1,
+    "sales_count" : 25,
+    "purchase_cost" : 10000,
+    "sale_cost" : 15000,
+    "product_name" : "abc"
+  },
+  {
+    "id" : 2,
+    "sales_count" : 30,
+    "purchase_cost" : 15000,
+    "sale_cost" : 25000,
+    "product_name" : "def"
+  },
+  {
+    "id" : 3,
+    "sales_count" : 66,
+    "purchase_cost" : 35000,
+    "sale_cost" : 100000,
+    "product_name" : "ghi"
+  }
+]
